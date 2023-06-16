@@ -29,7 +29,7 @@
   
   
   
-  Apaixonado por tecnologia desde criança, e estou sempre disposto a aprender novas tecnologias e desebvolver meus conhecimentos 🔥 
+  Apaixonado por tecnologia desde criança, e estou sempre disposto a aprender novas tecnologias e desenvolver meus conhecimentos 🔥 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
 
